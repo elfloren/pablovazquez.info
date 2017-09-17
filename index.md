@@ -11,15 +11,13 @@ layout: default
 
 ### Cursos
 - _06/2016_ Curso básico de Bobath. Reconocimiento y tratamiento de personas adultas 
-            
-            con trastornos neurológicos
+con trastornos neurológicos
 - _07/2016_ Inducción Miofascial Nivel 2
 - _07/2015_ Movimiento Normal (Bobath)
 - _06/2015_ Inducción miofascial Nivel 1
 - _05/2015_ Concepto Mulligan A y B
 - _01/2015_ Síndrome del dolor miofascial. Tratamiento conservador y punción seca de los puntos 
-            
-            gatillo miofasciales
+ gatillo miofasciales 
 - _01/2015_ Movimiento y Dolor. Avances en Neurociencia aplicados al tratamiento del dolor crónico
 - _03/2014_ Tratamiento fisioterápico en las disfunciones Temporomandibulares
 - _02/2014_ Movilización Neuromeníngea. Clínica y tratamiento Neurodinámico
