@@ -19,15 +19,15 @@ layout: default
 
 
 ### Experiencia laboral
-- _Jun. 2014 (Actualidad)_ Fisioterapeuta en la Clínica Siero.
-- _Feb. 2014 (Actualidad)_ Fisioterapeuta en el CAI, de la ASPACE- Oviedo.
-- _Sept. 2013_ Fisioterapeuta en la clínica de fisioterapia Maria Gavito (Oviedo).
-- _Sept. 2013_ Fisioterapeuta oficial del LXXIX Torneo Internacional de teniscopa Real Club Tenis de Oviedo.
-- _Nov. 2012_ Asistencia a las VI Jornadas de fisioterapia del Principado de Asturias.
-- _Marzo 2012_ Asistencia al VII Congreso Hispano-Luso de estudiantes de enfermería.
-- _Marzo 2012_ Participación en el equipo de Fisioterapia de la Maratón anual de Pola de Siero.
-- _Junio 2011_ Participación en el equipo de Fisioterapia en el Campeonato de España juvenil femenino de voleibol.
-- _Febrero 2011_ Asistencia a las VII Jornadas de fisioterapia y medicina deportiva.
+- _01/2017_ (Actualidad)_ Fisioterapeuta en la Clínica Rodríguez Reguero.
+- _02/2014_ (Actualidad)_ Fisioterapeuta en el CAI, de la ASPACE- Oviedo.
+- _09/2016_ Fisioterapeuta oficial de la Ontier Cup del Real Club de Tenis de Oviedo
+- _01/2017_ (Actualidad)_ Fisioterapeuta en la Clínica Condal.
+- _02/2014 06/2016_ Fisioterapeuta en la Policlínica Siero.
+- _09/2015_ Fisioterapeuta oficial del LXXXI Torneo Internacional de tenis copa Real Club Tenis de Oviedo.
+- _09/2015_ Fisioterapeuta oficial del LXXX Torneo Internacional de tenis copa Real Club Tenis de Oviedo.
+- _09/2013_ Fisioterapeuta en la clínica de fisioterapia Maria Gavito (Oviedo).
+- _09/2013_ Fisioterapeuta oficial del LXXIX Torneo Internacional de tenis copa Real Club Tenis de Oviedo.
 
 
 ### Otros
