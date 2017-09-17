@@ -4,6 +4,7 @@ layout: default
 
 <p id="cita">Soy un fisioterapeuta al que le encanta el trabajo en equipo y que busca lo mejor para sus pacientes a través de un medio natural de tratamiento.</p>
 
+
 ### Formación académica
 - _2009-2013_ Graduado en Fisioterapia por la Universidad de Oviedo.
 
