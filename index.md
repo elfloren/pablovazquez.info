@@ -39,7 +39,7 @@ con trastornos neurológicos
 ### Otros
 - **Inglés** nivel B1 certificado por la Universidad de Cambridge
 - **Carnet de conducir** tipo B
-- **Colegiado** No 1349 por el Colegio de Fisioterapeutas del Principado de Asturias
+- **Colegiado** Nº 1349 por el Colegio de Fisioterapeutas del Principado de Asturias
 - **Práctica** en los distintos departamentos de fisioterapia: electroterapia, traumatología, hidroterapia, neurología (en hospital universitario central de Asturias y colegio Ángel de la Guarda, asociación ASPACE), silicosis y unidad de plantas
 - Realicé una **ponencia** en el VII Congreso Hispano-Luso de estudiantes de enfermería sobre la movilización de pacientes encamados hospitalizados y domiciliarios, incluyendo cambios posturales y traslados de cama-silla, sedestación-bipedestación
 - **Charlas** en los colegios sobre educación postural, a través del programa "Fisioterapia en el colegio" promovido por COFISPA
