@@ -77,17 +77,17 @@ aside {
 #qr {
   display: none
 }
-ul.datos {
-  padding: 0;
-  list-style: none
-}
-ul.datos.confecha li {
-  display: block;
-  margin-bottom: 1em;
-  vertical-align: top
-}
-ul.datos.confecha li:first-child {
-  padding-top: 0
+.main, .side {
+  ul {
+    padding: 0;
+    list-style: none;
+
+    li {
+      display: block;
+      margin-bottom: 1em;
+      vertical-align: top;
+    }
+  }
 }
 ul.datos .etiqueta {
   font-weight: 700;
@@ -96,9 +96,6 @@ ul.datos .etiqueta {
 .fluid {
   float: left;
   display: inline-block
-}
-.fecha {
-  font-style: italic
 }
 #cita {
   font-size: 200%
@@ -222,7 +219,7 @@ a:focus {
   ul.datos .etiqueta {
       display: block
   }
-  .fecha {
+  .main em {
       width: 25%;
       display: inline-block
   }
@@ -255,7 +252,7 @@ a:focus {
       width: 65%;
       padding: 2em 0
   }
-  .fecha {
+  .main em {
       width: 18%
   }
   #foto {
@@ -273,7 +270,7 @@ a:focus {
 }
 
 @media (min-width: 1200px) {
-  .fecha {
+  .main em {
       width: 15%
   }
   header .name {
@@ -335,7 +332,7 @@ a:focus {
   .notprint {
       display: none
   }
-  .fecha {
+  .main em {
       width: 20%!important;
       display: inline-block
   }
@@ -366,7 +363,7 @@ a:focus {
   .datos .etiqueta {
       display: inline!important
   }
-  ul.datos.confecha li {
+  .main ul li {
       margin-bottom: .7em
   }
   aside,
