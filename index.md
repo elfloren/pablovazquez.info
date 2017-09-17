@@ -11,7 +11,8 @@ layout: default
 
 ### Cursos
 - _06/2016_ Curso básico de Bobath. Reconocimiento y tratamiento de personas adultas 
-            con trastornos neurológicos
+            
+ con trastornos neurológicos
 - _07/2016_ Inducción Miofascial Nivel 2
 - _07/2015_ Movimiento Normal (Bobath)
 - _06/2015_ Inducción miofascial Nivel 1
@@ -25,8 +26,8 @@ layout: default
 
 
 ### Experiencia laboral
-- _01/2017-Actualidad_  Fisioterapeuta en la Clínica Rodríguez Reguero.
-- _02/2014-Actualidad_  Fisioterapeuta en el CAI, de la ASPACE- Oviedo.
+- _01/2017-Act._  Fisioterapeuta en la Clínica Rodríguez Reguero.
+- _02/2014-Act._  Fisioterapeuta en el CAI, de la ASPACE- Oviedo.
 - _09/2016_ Fisioterapeuta oficial de la Ontier Cup del Real Club de Tenis de Oviedo
 - _01/2017_  Fisioterapeuta en la Clínica Condal.
 - _02/14-06/16_         Fisioterapeuta en la Policlínica Siero.
