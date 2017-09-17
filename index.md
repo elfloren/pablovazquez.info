@@ -19,11 +19,11 @@ layout: default
 
 
 ### Experiencia laboral
-- _01/2017_ (Actualidad)_ Fisioterapeuta en la Clínica Rodríguez Reguero.
-- _02/2014_ (Actualidad)_ Fisioterapeuta en el CAI, de la ASPACE- Oviedo.
+- _01/2017_ (Actualidad) Fisioterapeuta en la Clínica Rodríguez Reguero.
+- _02/2014_ (Actualidad) Fisioterapeuta en el CAI, de la ASPACE- Oviedo.
 - _09/2016_ Fisioterapeuta oficial de la Ontier Cup del Real Club de Tenis de Oviedo
-- _01/2017_ (Actualidad)_ Fisioterapeuta en la Clínica Condal.
-- _02/2014 06/2016_ Fisioterapeuta en la Policlínica Siero.
+- _01/2017_ (Actualidad) Fisioterapeuta en la Clínica Condal.
+- _02/2014-06/2016_ Fisioterapeuta en la Policlínica Siero.
 - _09/2015_ Fisioterapeuta oficial del LXXXI Torneo Internacional de tenis copa Real Club Tenis de Oviedo.
 - _09/2015_ Fisioterapeuta oficial del LXXX Torneo Internacional de tenis copa Real Club Tenis de Oviedo.
 - _09/2013_ Fisioterapeuta en la clínica de fisioterapia Maria Gavito (Oviedo).
