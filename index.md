@@ -10,12 +10,15 @@ layout: default
 
 
 ### Cursos
-- _Marzo 2014_ Curso de Tratamiento Fisioterápico en las Disfunciones Temporomandibulares.
-- _Febrero 2014_ Curso de Movilización Neuromeníngea. Clínica y Tratamiento Neurodinámico.
-- _Febrero 2013_ Taller de drenaje linfático.
-- _Mayo 2012_ Taller de vendaje neuromuscular.
-- _Marzo 2012_ Taller de punción seca durante congreso Hispano-Luso de estudiantes de enfermería.
-- _Marzo 2012_ Taller manipulación de la fascia.
+- _06/2016_ Curso de Tratamiento Fisioterápico en las Disfunciones Temporomandibulares.
+- _07/2016_ Curso de Tratamiento Fisioterápico en las Disfunciones Temporomandibulares.
+- _07/2015_ Curso de Tratamiento Fisioterápico en las Disfunciones Temporomandibulares.
+- _06/2015_ Curso de Tratamiento Fisioterápico en las Disfunciones Temporomandibulares.
+- _05/2015_ Curso de Tratamiento Fisioterápico en las Disfunciones Temporomandibulares.
+- _01/2015_ Movimiento y Dolor. Avances en Neurociencia aplicados al tratamiento del dolor crónico.
+- _03/2014_ Curso de Tratamiento Fisioterápico en las Disfunciones Temporomandibulares.
+- _02/2014_ Curso de Movilización Neuromeníngea. Clínica y Tratamiento Neurodinámico.
+
 
 
 ### Experiencia laboral
@@ -23,7 +26,7 @@ layout: default
 - _02/2014_ (Actualidad) Fisioterapeuta en el CAI, de la ASPACE- Oviedo.
 - _09/2016_ Fisioterapeuta oficial de la Ontier Cup del Real Club de Tenis de Oviedo
 - _01/2017_ (Actualidad) Fisioterapeuta en la Clínica Condal.
-- _02/2014-06/2016_ Fisioterapeuta en la Policlínica Siero.
+- _02/2014-06/2016_   Fisioterapeuta en la Policlínica Siero.
 - _09/2015_ Fisioterapeuta oficial del LXXXI Torneo Internacional de tenis copa Real Club Tenis de Oviedo.
 - _09/2015_ Fisioterapeuta oficial del LXXX Torneo Internacional de tenis copa Real Club Tenis de Oviedo.
 - _09/2013_ Fisioterapeuta en la clínica de fisioterapia Maria Gavito (Oviedo).
