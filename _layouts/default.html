@@ -5,9 +5,43 @@
 
   <body>
 
-    <main class="main" aria-label="Content">
-      {{ content }}
-    </main>
+    <div id="white"><div id="content">
+      <header>
+        <span class="triangulo"></span>
+        <h1 class="name">Pablo Vázquez</h1>
+        <h2 class="job">Fisioterapeuta</h2>
+      </header>
+
+      <aside>
+        <div id="foto">
+          <picture data-picture data-alt="Pablo Vazquez Garcia">
+                <source src="/assets/images/pablo_small.jpg" />
+                <source src="/assets/images/pablo_medium.jpg" media="(min-device-pixel-ratio: 2.0)" />
+                <source src="/assets/images/pablo_medium.jpg" media="(min-width: 760px)" />
+                <source src="/assets/images/pablo_large.jpg" width="250" height="263" media="(min-width: 760px) and (min-device-pixel-ratio: 2.0)" />
+                <source src="/assets/images/pablo_large.jpg" width="250" height="263" media="(min-width: 960px)" />
+                <source src="/assets/images/pablo_extralarge.jpg" media="(min-width: 960px) and (min-device-pixel-ratio: 2.0)" />
+
+                    <img src="/assets/images/pablo_large.jpg" alt="Pablo Vazquez Garcia" width="250" height="263">
+            </picture>
+        </div>
+        <ul class="datos">
+          <li><span class="etiqueta">Nombre y Apellidos: </span>Pablo Vázquez García</li>
+          <li><span class="etiqueta">Fecha de nacimiento: </span>20 de Mayo de 1991</li>
+          <li><span class="etiqueta">Residencia: </span>Pola de Siero</li>
+          <li><span class="etiqueta">Teléfono: </span>662 091 626</li>
+          <li><span class="etiqueta">Email: </span><a href="mailto:fisio@pablovazquez.info">fisio@pablovazquez.info</a></li>
+        </ul>
+        <div id="qr"><img src="/assets/images/qr.png" alt="Codigo QR" width="228" height="228"/></div>
+      </aside><section class="main" aria-label="Content">
+
+        {{ content }}
+
+      </section>
+    </div></div><footer>
+      <span class="triangulo"></span>
+      <span id="firma">&copy;2017 <b>pablovazquez.info</b> - Desarrollado por <a href="http://jaicab.com" title="Jaime Caballero - Desarrollador front-end">Jaime Caballero</a></span>
+    </footer>
 
   </body>
 

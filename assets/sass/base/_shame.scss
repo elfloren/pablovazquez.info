@@ -1,0 +1,377 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: #e6e6e6
+}
+body {
+  font-family: Georgia, serif;
+  color: #333;
+  font-size: 1em;
+  position: relative
+}
+#content {
+  margin: 0 auto;
+  overflow: hidden;
+  width: 100%;
+  max-width: 1240px
+}
+#white {
+  background: #fff
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.etiqueta {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700
+}
+img {
+  width: 100%;
+  height: auto
+}
+header {
+  text-align: right;
+  color: #fff
+}
+header .name {
+  margin: 0;
+  font-size: 12vw;
+  line-height: 1;
+  display: block;
+  z-index: 1000;
+  position: relative;
+  padding-right: 5%;
+  padding-top: 1vh
+}
+header .job {
+  margin: 0;
+  font-size: 7vw;
+  line-height: 1;
+  display: block;
+  z-index: 1000;
+  position: relative;
+  padding-right: 5%
+}
+.triangulo {
+  height: 0;
+  width: 0;
+  z-index: 10;
+  position: absolute;
+  top: 0;
+  right: 0
+}
+header .triangulo {
+  border-left: 50em transparent solid;
+  border-top: 7em #4af solid
+}
+section,
+aside {
+  margin: 0 5%
+}
+#foto,
+#qr {
+  display: none
+}
+ul.datos {
+  padding: 0;
+  list-style: none
+}
+ul.datos.confecha li {
+  display: block;
+  margin-bottom: 1em;
+  vertical-align: top
+}
+ul.datos.confecha li:first-child {
+  padding-top: 0
+}
+ul.datos .etiqueta {
+  font-weight: 700;
+  margin-top: .5em
+}
+.fluid {
+  float: left;
+  display: inline-block
+}
+.fecha {
+  font-style: italic
+}
+#cita {
+  font-size: 200%
+}
+form label {
+  padding: .5em 0;
+  display: block;
+  clear: both
+}
+form label textarea {
+  height: 200px
+}
+input[type=text],
+input[type=email],
+input[type=url],
+input[type=password],
+textarea {
+  width: 100%;
+  border: 1px solid #e6e6e6;
+  font-family: Georgia, serif;
+  font-size: 1em;
+  padding: .5em;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-appearance: none
+}
+input[type=text]:focus,
+input[type=email]:focus,
+input[type=url]:focus,
+input[type=password]:focus,
+textarea:focus {
+  border-color: #4af;
+  outline-width: 0;
+  border-radius: 0
+}
+input[type=submit],
+.but {
+  -webkit-appearance: none;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: #4af;
+  color: #fff;
+  padding: .5em 1em;
+  font-size: 1em;
+  border: none;
+  border-radius: 0
+}
+input[type=submit]:hover,
+input[type=submit]:focus,
+.but:focus,
+.but:hover {
+  background: #e6e6e6;
+  cursor: pointer
+}
+footer {
+  font-size: 90%;
+  width: 100%;
+  position: relative;
+  text-align: left;
+  clear: both;
+  overflow: hidden;
+  background: #e6e6e6
+}
+footer .triangulo {
+  border-left: 50em #e6e6e6 solid;
+  border-top: 6em transparent solid;
+  top: auto;
+  bottom: 0
+}
+footer #firma {
+  z-index: 1000;
+  position: relative;
+  padding: 2.5% 5%;
+  display: block
+}
+a {
+  color: #4af;
+  text-decoration: none
+}
+a:hover,
+a:focus {
+  color: #fff;
+  background-color: #4af
+}
+
+@media (min-width: 480px) {
+  header .name {
+      font-size: 8vw
+  }
+  header .job {
+      font-size: 4vw
+  }
+  header .triangulo {
+      border-left: 75em transparent solid;
+      border-top: 7em #4af solid
+  }
+  footer {
+      background: #fff
+  }
+  footer .triangulo {
+      border-left: 100em #e6e6e6 solid;
+      border-top: 10em transparent solid
+  }
+}
+
+@media (min-width: 760px) {
+  header .triangulo {
+      border-top: 9em #4af solid
+  }
+  #foto {
+      display: block;
+      width: 30%;
+      -webkit-box-shadow: 0 0 15px #e6e6e6;
+      box-shadow: 0 0 15px #e6e6e6;
+      float: left;
+      margin: 0 5% 0 0
+  }
+  #foto img {
+      display: block
+  }
+  ul.datos .etiqueta {
+      display: block
+  }
+  .fecha {
+      width: 25%;
+      display: inline-block
+  }
+  form .etiqueta {
+      float: left;
+      display: inline-block;
+      width: 15%;
+      padding-top: .75em
+  }
+  form label input {
+      float: left;
+      display: inline-block;
+      width: 85%!important
+  }
+}
+
+@media (min-width: 950px) {
+  header .triangulo {
+      border-top: 13em #4af solid
+  }
+  aside {
+      float: left;
+      display: inline-block;
+      width: 20%;
+      margin: 0 0 0 5%
+  }
+  section {
+      float: left;
+      display: inline-block;
+      width: 65%;
+      padding: 2em 0
+  }
+  .fecha {
+      width: 18%
+  }
+  #foto {
+      float: none;
+      margin: 0;
+      width: 100%
+  }
+  #qr {
+      display: block;
+      border: 1px solid #e6e6e6
+  }
+  #qr img {
+      width: 100%
+  }
+}
+
+@media (min-width: 1200px) {
+  .fecha {
+      width: 15%
+  }
+  header .name {
+      font-size: 6vw
+  }
+  header .job {
+      font-size: 3vw
+  }
+  header .triangulo {
+      border-left: 120em transparent solid;
+      border-top: 12em #4af solid
+  }
+  footer .triangulo {
+      border-left: 150em #e6e6e6 solid;
+      border-top: 15em transparent solid
+  }
+}
+
+@media (min-width: 1400px) {
+  header .triangulo {
+      border-left: 160em transparent solid;
+      border-top: 12em #4af solid
+  }
+  footer .triangulo {
+      border-left: 150em #e6e6e6 solid;
+      border-top: 15em transparent solid
+  }
+}
+
+@media (min-width: 1780px) {
+  header .triangulo {
+      border-left: 160em transparent solid;
+      border-top: 16em #4af solid
+  }
+}
+
+@media only print {
+  * {
+      width: auto;
+      float: none;
+      color: #000!important;
+      background: #fff;
+      text-align: left;
+      z-index: 0!important
+  }
+  body {
+      width: auto!important
+  }
+  section,
+  aside {
+      display: block;
+      width: auto!important;
+      padding: 0 0!important
+  }
+  #cita,
+  form,
+  footer,
+  .triangulo,
+  .notprint {
+      display: none
+  }
+  .fecha {
+      width: 20%!important;
+      display: inline-block
+  }
+  #foto,
+  #qr {
+      display: block
+  }
+  header {
+      padding-left: 5%;
+      position: inherit;
+      text-align: center!important
+  }
+  #foto {
+      width: 180px;
+      float: right;
+      margin: -1em 0 1em 1em
+  }
+  #qr {
+      clear: both;
+      float: right;
+      width: 180px;
+      margin: 0 0 1em 1em
+  }
+  #foto img,
+  #qr img {
+      border: 1px solid #000
+  }
+  .datos .etiqueta {
+      display: inline!important
+  }
+  ul.datos.confecha li {
+      margin-bottom: .7em
+  }
+  aside,
+  section {
+      display: block;
+      width: 100%
+  }
+}
