@@ -7,6 +7,7 @@ layout: default
 ### Formación académica
 - _2009-2013_ Graduado en Fisioterapia por la Universidad de Oviedo.
 
+
 ### Cursos
 - _Marzo 2014_ Curso de Tratamiento Fisioterápico en las Disfunciones Temporomandibulares.
 - _Febrero 2014_ Curso de Movilización Neuromeníngea. Clínica y Tratamiento Neurodinámico.
@@ -14,6 +15,7 @@ layout: default
 - _Mayo 2012_ Taller de vendaje neuromuscular.
 - _Marzo 2012_ Taller de punción seca durante congreso Hispano-Luso de estudiantes de enfermería.
 - _Marzo 2012_ Taller manipulación de la fascia.
+
 
 ### Experiencia laboral
 - _Jun. 2014 (Actualidad)_ Fisioterapeuta en la Clínica Siero.
@@ -25,7 +27,8 @@ layout: default
 - _Marzo 2012_ Participación en el equipo de Fisioterapia de la Maratón anual de Pola de Siero.
 - _Junio 2011_ Participación en el equipo de Fisioterapia en el Campeonato de España juvenil femenino de voleibol.
 - _Febrero 2011_ Asistencia a las VII Jornadas de fisioterapia y medicina deportiva.
-        
+
+
 ### Otros
 - **Inglés** nivel B1 certificado por la Universidad de Cambridge.
 - **Carnet de conducir** tipo B
